@@ -1,0 +1,15 @@
+.auth-form__text {
+    margin: 15px 0 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@media screen and (max-width: 440px) {
+    .auth-form__text {
+        margin: 20px 0 0;
+    }
+    
+}
